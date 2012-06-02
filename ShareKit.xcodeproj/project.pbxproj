@@ -157,7 +157,6 @@
 		7AB534C81552BE7D00171BCE /* UIWebView+SHK.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5367A11DBE3B9004A1712 /* UIWebView+SHK.m */; };
 		7AB534CA1552BE7D00171BCE /* NSMutableDictionary+NSNullsToEmptyStrings.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A25903614CD4E8000FBA124 /* NSMutableDictionary+NSNullsToEmptyStrings.m */; };
 		7AB534CC1552BE7D00171BCE /* NSHTTPCookieStorage+DeleteForURL.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A333EE414CC5B9D0060900C /* NSHTTPCookieStorage+DeleteForURL.m */; };
-		7AB534CE1552BE7D00171BCE /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AF2523714F0499E00CE8709 /* JSONKit.m */; };
 		7AB534D01552BE7D00171BCE /* SSKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = A57772B314BA0748003FC744 /* SSKeychain.m */; };
 		7AB534D21552BE7D00171BCE /* NSMutableURLRequest+Parameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368211DBE3B9004A1712 /* NSMutableURLRequest+Parameters.m */; };
 		7AB534D41552BE7D00171BCE /* NSString+URLEncoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368411DBE3B9004A1712 /* NSString+URLEncoding.m */; };
@@ -1635,7 +1634,6 @@
 				7AB534C81552BE7D00171BCE /* UIWebView+SHK.m in Sources */,
 				7AB534CA1552BE7D00171BCE /* NSMutableDictionary+NSNullsToEmptyStrings.m in Sources */,
 				7AB534CC1552BE7D00171BCE /* NSHTTPCookieStorage+DeleteForURL.m in Sources */,
-				7AB534CE1552BE7D00171BCE /* JSONKit.m in Sources */,
 				7AB534D01552BE7D00171BCE /* SSKeychain.m in Sources */,
 				7AB534D21552BE7D00171BCE /* NSMutableURLRequest+Parameters.m in Sources */,
 				7AB534D41552BE7D00171BCE /* NSString+URLEncoding.m in Sources */,
